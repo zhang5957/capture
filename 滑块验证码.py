@@ -12,8 +12,8 @@ from matplotlib import pyplot as plt
 import random
 import time
 
-USERNAME = '13585111531'
-PASSWORD = 'jtyhzyc97'
+USERNAME = '自己的username'
+PASSWORD = '自己的密码'
 
 class CrackDouBan:
     def __init__(self):
